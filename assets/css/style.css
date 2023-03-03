@@ -1,0 +1,88 @@
+header {
+   background-color: blanchedalmond;
+   color: black;
+   text-align: left;
+   padding: 1%;
+   margin: 3%;
+   border-style: solid;
+   border-radius: 2%;
+}
+
+body {
+   display: flex;
+}
+
+hidden {
+   display: none;
+}
+
+#weather-data-container {
+   text-align: center;
+   padding: 1%;
+   margin: 3%;
+   border-style: solid;
+   border-radius: 5%;
+}
+
+#results-wrapper {
+   width: 90%;
+   margin: auto 1%;
+}
+
+#cities-search-container {
+   border-right:  1px solid #ededed;
+   background: lightgray;
+   flex: 1 0 10%;
+   padding: 1rem;
+}
+
+#submit {
+   text-align: center;
+   padding: 1%;
+   margin: 3%;
+   border-style: solid;
+   border-radius: 5%;
+   cursor: pointer;
+   color: black;
+   background-color: lightblue;
+}
+
+#clear {
+   text-align: center;
+   padding: 1%;
+   margin: 3%;
+   border-style: solid;
+   border-radius: 5%;
+   cursor: pointer;
+   color: black;
+   background-color: blanchedalmond;
+}
+
+.past-city {
+   text-align: center;
+   padding: 1%;
+   margin: 3%;
+   border-style: solid;
+   border-radius: 5%;
+   cursor: pointer;
+   background-color: blanchedalmond;
+}
+
+#five-day-container {
+   display: flex;
+   justify-content: space-evenly;
+}
+
+#forecast-header {
+   display: block;
+}
+
+#today > .date {
+   font-weight: bold;
+}
+
+.day {
+   margin: 1%;
+   padding: 1%;
+   border-style: solid;
+}

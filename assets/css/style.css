@@ -8,7 +8,7 @@ header {
    border-radius: 2%;
 }
 
-body {
+#flex-container {
    display: flex;
 }
 
@@ -20,7 +20,6 @@ hidden {
    text-align: center;
    padding: 1%;
    margin: 3%;
-   border-style: solid;
    border-radius: 5%;
 }
 

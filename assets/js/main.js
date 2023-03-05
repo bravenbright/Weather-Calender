@@ -36,8 +36,8 @@ function getApi() {
          ...data.list.slice(1).filter(day => day.dt_txt.includes("12:00:00"))
       ];
 
-      console.log(days);
       populateDays(days);
+      weatherDataContainer.style.borderStyle = 'solid';
    });
 };
 

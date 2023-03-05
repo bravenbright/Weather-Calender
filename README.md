@@ -1,4 +1,4 @@
-![MIT License](https://img.shields.io/badge/License-MIT-blue)  ![Javascript License](https://img.shields.io/badge/License-Javascript-orange) ![CSS License](https://img.shields.io/badge/License-CSS-brightgreen) ![HTML License](https://img.shields.io/badge/License-HTML-blueviolet)
+![MIT License](https://img.shields.io/badge/License-MIT-blue)  ![Javascript](https://img.shields.io/badge/Language-Javascript-orange) ![CSS](https://img.shields.io/badge/Language-CSS-brightgreen) ![HTML](https://img.shields.io/badge/Language-HTML-blueviolet)
 
 # Weather Forecast
 
